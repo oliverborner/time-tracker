@@ -7,9 +7,6 @@ Designed for internal use by teams to track working hours on projects, manage en
 
 ---
 
-## Disclaimer
-This code was written by Oliver Borner and all rights belong to him. After the code review please delete this repository and  project.
-
 ## Table of Contents
 
 - [Features](#features)

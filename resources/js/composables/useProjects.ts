@@ -42,7 +42,7 @@ export function useProjects() {
 
 /* 
   const projects = ref<Project[]>([
-    { id: 1, name: 'Blindwerk Website Redesign 🔥', description:'A more modern look and feel.' },
+    { id: 1, name: 'Website Redesign 🔥', description:'A more modern look and feel.' },
     { id: 2, name: 'Mobile App [Flutter]', description:'Cordova a no go? Lets flutter now' },
     { id: 3, name: 'Marketing Campaign', description:'Socialize ;-)' },
     { id: 4, name: 'Implementing a reusable tokenized Design System', description:'That would be awesome!' },

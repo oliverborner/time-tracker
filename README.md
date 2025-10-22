@@ -59,7 +59,7 @@ This code was written by Oliver Borner and all rights belong to him. After the c
 
 ### 1. Clone the repository:
 ```
-git clone https://git.blindwerk.de/blindwerk/know-how/bewerberaufgaben/ob-time-tracking.git
+git clone https://github.com/oliverborner/time-tracker
 cd time-tracker
 ```
 

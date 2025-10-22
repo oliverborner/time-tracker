@@ -15,7 +15,7 @@ class ProjectSeeder extends Seeder
             [
                 'id' => 1,
                 'user_id' => 1,
-                'name' => 'Blindwerk Website Redesign 🔥',
+                'name' => 'Website Redesign 🔥',
                 'description' => 'A more modern look and feel.',
                 'created_at' => Carbon::now(),
                 'updated_at' => Carbon::now(),
